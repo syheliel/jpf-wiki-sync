@@ -16,7 +16,7 @@ All times are in UTC.
    <tr>
       <td>15:10 - 15:55</td>
       <td>Invited Talk: Divya Gopinath<br>
-      <i>(Title: TBD)</i></td>
+      <i>Constraint-based repair of neural network classifiers</i></td>
    </tr>
    <tr>
       <td>15:55 - 16:00</td>
