@@ -1,6 +1,6 @@
-# JPF 2021 - December 4 - *online*
+<!-- JPF 2021 - December 4 - *online*-->
 
-## Call for participation
+<!--## Call for participation-->
 
 Since 2008, ten times the _Java PathFinder (JPF)_ workshop has been organized. Given the current pandemic, as in 2020 also this year we will organize a **JPF day** instead. On **Saturday, December 4**, a Zoom session will be held (15:00-17:45 UTC).
 
