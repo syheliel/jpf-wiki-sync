@@ -55,6 +55,8 @@ All times are in UTC.
 
 For those interested in participating, please send an email to [javapathfinder21@gmail.com](mailto:javapathfinder21@gmail.com) with the subject JPF 2021. The receipt of your email will be acknowledged and the Zoom details will be emailed to you one day in advance of the meeting.
 
+Additionally, we encourage you to join the official [JPF Day 2021 discord server](https://discord.gg/dQvmMYkd8u) where you can engage in project-specific discussions with the authors, ask JPF-related questions, or just hang out during the event. We hope to see you there!
+
 <!--
 ## Call for presentations
 
