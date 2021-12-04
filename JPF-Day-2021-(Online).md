@@ -23,10 +23,6 @@ All times are in UTC.
       <td>Short break</td>
    </tr>
    <tr>
-      <td>15:00 - 15:10</td>
-      <td>Opening</td>
-   </tr>
-   <tr>
       <td>16:00 - 16:05</td>
       <td>GSoC’2021 Overview and Results</td>
    </tr>
