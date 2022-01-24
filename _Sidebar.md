@@ -46,6 +46,9 @@
 ---
 * [JPF core project](JPF-core)
 ---
+* [Google Summer of Code 2022](JPF-Google-Summer-of-Code-2022)
+    * [Project Ideas](GSoC-2022-Project-Ideas)
+---
 * [Online JPF Day 2021](JPF-Day-2021-(Online))
 ---
 * [Google Summer of Code 2021](JPF-Google-Summer-of-Code-2021)
