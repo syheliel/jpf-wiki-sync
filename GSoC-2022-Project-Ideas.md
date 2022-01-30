@@ -180,7 +180,7 @@ The goal of this project is to (1) implement gradle support for Symbolic Pathfin
 **Required skills:** Knowledge of Java Pathfinder and Gradle build automation  
 **Preferred skills:** Knowledge of Symbolic Pathfinder  
 
-<a name="support-gradle-for-spf"></a>
+<a name="support-java-11-for-spf"></a>
 #### Support for Java v11 for SPF
 
 **Description:**
@@ -190,7 +190,7 @@ The goal of this project is to upgrade SPF to work with Java 11.
 **Required skills:** Knowledge of Symbolic Pathfinder   
 **Preferred skills:** Knowledge of Java v11
 
-<a name="support-gradle-for-spf"></a>
+<a name="improving-string-analysis-in-spf"></a>
 #### Robustify String solving for SPF
 
 **Description:**
@@ -200,6 +200,7 @@ The goal of this project is to test SPF integration with Z3 string constraint so
 **Difficulty:** Hard  
 **Required skills:** Knowledge of Symbolic Pathfinder   
 **Preferred skills:** Knowledge of String constraint solving.
+
 <a name="random-search-in-spf"></a>
 #### Support Random Search Strategy in SPF   
 
