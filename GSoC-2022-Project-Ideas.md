@@ -37,7 +37,7 @@ A possible proposal template can be found at the bottom of our GSoC page: [[JPF 
 
 * [String Constraint Solver Integration in SPF](#improving-string-analysis-in-spf) <Yannic><Corina><Elena><Soha>
 
-* [Support Random Search Strategy in SPF](#random-search-in-spf) <Soha>
+<!-- * [Support Random Search Strategy in SPF](#random-search-in-spf) <Soha> -->
 
 <!-- * [Support Bit-Vector Floating Point in SPF](#bvfloating-point-in-spf) <Soha> -->
 
@@ -103,7 +103,7 @@ A possible proposal template can be found at the bottom of our GSoC page: [[JPF 
 
 * [Model-based Testing with Modbat for JPF](#mbt-modbat) <Cyrille>
 
-* [Minimizing test-cases for branch coverage of Path-Merged Regions](#minimize-testcases-path-merging) <Soha>
+<!-- * [Minimizing test-cases for branch coverage of Path-Merged Regions](#minimize-testcases-path-merging) <Soha> -->
 
 <!-- * [Method summaries, extended](#method-summaries)<Cyrille><Pavel> -->
 
@@ -201,6 +201,7 @@ The goal of this project is to test SPF integration with Z3 string constraint so
 **Required skills:** Knowledge of Symbolic Pathfinder   
 **Preferred skills:** Knowledge of String constraint solving.
 
+<!--
 <a name="random-search-in-spf"></a>
 #### Support Random Search Strategy in SPF   
 
@@ -211,7 +212,7 @@ SPF currently uses a depth-first search strategy, in this project we will add ra
 **Required skills:** Knowledge of Symbolic Pathfinder.  
 **Preferred skills:** Knowledge of random search strategy.  
 
-
+ 
 <a name="minimize-testcases-path-merging"></a>
 #### Minimizing Test-Cases for Branch Coverage of Path-Merged Regions
 
@@ -221,3 +222,5 @@ When generating test cases for path-merging more branch obligations could be cov
 **Difficulty:** Medium  
 **Required skills:** Knowledge of Symbolic PathFinder.  
 **Preferred skills:** Knowledge of Java Ranger.  
+
+-->
