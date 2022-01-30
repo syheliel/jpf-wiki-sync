@@ -29,7 +29,7 @@ A possible proposal template can be found at the bottom of our GSoC page: [[JPF 
 
 <!-- * [Automatic program repair using annotations](#automatic-program-repair-using-annotations) <Bach><Vaibhav><Eric><Corina> -->
 
-### Symbolic Execution
+### Symbolic Pathfinder (SPF)
 
 * [Support Java 11+ for SPF](#support-java-11-for-spf) <Yannic><Corina>
 
