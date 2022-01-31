@@ -138,8 +138,8 @@ The key feature of Java 11 that is currently not fully supported are bootstrap m
 This is a high-priority project, as support for Java 8 is limited to the near future.
 *Note:* You can apply to both projects (Java 11 or 12 support); in that case, please indicate that you would like to work on either one, and what your preference would be.
 
-**Difficulty:** Hard
-**Scope:** Large
+**Difficulty:** Hard  
+**Scope:** Large  
 **Required skills:** Knowledge of Java bytecode  
 **Preferred skills:** Knowledge of bootstrap methods in Java bytecode
 
@@ -151,7 +151,7 @@ This requires redesigning and reimplementing part of the code, in order to take 
 *Note:* You can apply to both projects (Java 11 or 12 support); in that case, please indicate that you would like to work on either one, and what your preference would be.
 
 **Difficulty:** Medium  
-**Scope:** Small
+**Scope:** Small  
 **Required skills:** Knowledge of Java internals
 
 <a name="mbt-modbat"></a>
@@ -168,7 +168,7 @@ The goal is to find all problems where Modbat requires native access, and to use
 to resolve as many of these cases as possible. Remaining cases can be handled with custom model/peer classes, perhaps not with the full feature set, but at least to avoid JPF aborting due to an unsupported feature.
 
 **Difficulty:** Easy  
-**Scope:** Large
+**Scope:** Large  
 **Required skills:** Knowledge of Java Pathfinder  
 **Preferred skills:** Knowledge of test generation
 
@@ -180,7 +180,7 @@ to resolve as many of these cases as possible. Remaining cases can be handled wi
 The goal of this project is to (1) implement gradle support for Symbolic Pathfinder, (2) to update the extension template, including gradle support and updated documentation.
 
 **Difficulty:** Easy  
-**Scope:** Small
+**Scope:** Small  
 **Required skills:** Knowledge of Java Pathfinder and Gradle build automation  
 **Preferred skills:** Knowledge of Symbolic Pathfinder  
 
@@ -191,7 +191,7 @@ The goal of this project is to (1) implement gradle support for Symbolic Pathfin
 The goal of this project is to upgrade SPF to work with Java 11.
 
 **Difficulty:** Hard  
-**Scope:** Large
+**Scope:** Large  
 **Required skills:** Knowledge of Symbolic Pathfinder   
 **Preferred skills:** Knowledge of Java v11
 
@@ -203,7 +203,7 @@ The goal of this project is to test SPF integration with Z3 string constraint so
 
 
 **Difficulty:** Hard  
-**Scope:** Large
+**Scope:** Large  
 **Required skills:** Knowledge of Symbolic Pathfinder   
 **Preferred skills:** Knowledge of String constraint solving.
 
