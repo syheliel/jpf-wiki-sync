@@ -141,7 +141,8 @@ This is a high-priority project, as support for Java 8 is limited to the near fu
 **Difficulty:** Hard  
 **Scope:** 350 hours  
 **Required skills:** Knowledge of Java bytecode  
-**Preferred skills:** Knowledge of bootstrap methods in Java bytecode
+**Preferred skills:** Knowledge of bootstrap methods in Java bytecode  
+**Possible Mentors:** Cyrille
 
 <a name="support-java-12"></a>
 #### Support for Java 12 (private API dependencies) for jpf-core
@@ -152,7 +153,8 @@ This requires redesigning and reimplementing part of the code, in order to take 
 
 **Difficulty:** Medium  
 **Scope:** 175 hours  
-**Required skills:** Knowledge of Java internals
+**Required skills:** Knowledge of Java internals  
+**Possible Mentors:** Cyrille
 
 <a name="mbt-modbat"></a>
 #### Test Case Generation/Model-based Testing with Modbat for JPF
@@ -170,7 +172,8 @@ to resolve as many of these cases as possible. Remaining cases can be handled wi
 **Difficulty:** Easy  
 **Scope:** 350 hours  
 **Required skills:** Knowledge of Java Pathfinder  
-**Preferred skills:** Knowledge of test generation
+**Preferred skills:** Knowledge of test generation  
+**Possible Mentors:** Cyrille
 
 
 <a name="support-gradle-for-spf"></a>
@@ -183,6 +186,7 @@ The goal of this project is to (1) implement gradle support for Symbolic Pathfin
 **Scope:** 175 hours  
 **Required skills:** Knowledge of Java Pathfinder and Gradle build automation  
 **Preferred skills:** Knowledge of Symbolic Pathfinder  
+**Possible Mentors:** Yannic, Corina
 
 <a name="support-java-11-for-spf"></a>
 #### Support for Java v11 for SPF
@@ -193,7 +197,8 @@ The goal of this project is to upgrade SPF to work with Java 11.
 **Difficulty:** Hard  
 **Scope:** 350 hours  
 **Required skills:** Knowledge of Symbolic Pathfinder   
-**Preferred skills:** Knowledge of Java v11
+**Preferred skills:** Knowledge of Java v11  
+**Possible Mentors:** Yannic, Corina
 
 <a name="improving-string-analysis-in-spf"></a>
 #### Robustify String solving for SPF
@@ -205,7 +210,8 @@ The goal of this project is to test SPF integration with Z3 string constraint so
 **Difficulty:** Hard  
 **Scope:** 350 hours  
 **Required skills:** Knowledge of Symbolic Pathfinder   
-**Preferred skills:** Knowledge of String constraint solving.
+**Preferred skills:** Knowledge of String constraint solving.  
+**Possible Mentors:** Yannic, Corina, Elena, Soha
 
 <!--
 <a name="random-search-in-spf"></a>
