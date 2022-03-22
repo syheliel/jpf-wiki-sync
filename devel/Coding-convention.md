@@ -1,4 +1,18 @@
-JPF is an open system. In order to keep the source format reasonably consistent, we strive to keep the following minimal set of conventions
+JPF is an open system. In order to keep the source format reasonably consistent, we strive to keep the following minimal set of conventions:
+
+## Conventions
+
+1. The contribution should be in line with the current architecture of jpf-core (or an extension).
+
+2. Contributions need a copyright header at the beginning of each source file.
+
+3. Contributions should be unit-tested by at least one new or enhanced test per new feature or fix.
+
+4. Contributions should not break existing unit tests (the CI build must pass).
+
+5. Public methods and classes should have a short Javadoc comment. 
+
+## Detailed code style
 
   * Two space indentation (no tabs)
   * Opening brackets in same line (class declaration, method declaration, control statements)
