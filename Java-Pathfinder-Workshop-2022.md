@@ -38,6 +38,10 @@ We invite practitioners, academics, and students who are interested in Java deve
       <td><b>Final Version</b>:</td>
       <td>Friday, September 2, 2022</td>
     </tr>
+    <tr>
+      <td><b>Workshop day</b>:</td>
+      <td>Monday, October 10, 2022</td>
+    </tr>
   </tbody>
 </table>
 
@@ -49,6 +53,9 @@ We invite practitioners, academics, and students who are interested in Java deve
 ## Organizers
 * [Elena Sherman](http://cs.boisestate.edu/~esherman/), Boise State University
 * [Yannic Noller](https://comp.nus.edu.sg/~yannic), National University of Singapore
+
+## Program Committee
+_[coming soon]_
 
 ## Contact
 [javapathfinder2022@gmail.com](mailto:javapathfinder2022@gmail.com)
