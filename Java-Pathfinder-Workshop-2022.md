@@ -1,14 +1,7 @@
-The goal of the workshop is to highlight research and tools for Java/Android program verification and analysis. Although there is a
-particular emphasis on the JPF tool, and on projects that use JPF to support basic research, tool development, or verification case studies, the workshop also welcomes contributions related to general program analysis of Java/Android programs. The hope is to use the workshop to grow the community of researchers investigating Java, Android, and JPF in an effort to foster collaboration and define future needs for Java program analysis.
+The goal of the workshop is to highlight current research and tools development for Java/Android program verification and analysis. Although the workshop’s theme revolves around the JPF tool, e.g., use of JPF to support basic research, tool development, or in verification case studies, we also welcome contributions related to program analysis of Java/Android applications. The workshop will serve as a platform to grow the community of researchers, foster collaboration and define future directions for JPF development and Java/Android program analysis research.
 
 ## Call for Submissions
-We solicit regular paper submissions on existing research and applications related to JPF or its extensions. If the underlying
-research idea has been published in another venue, the paper needs to clarify the novel aspects that are being presented in the paper.
-We also solicit extended abstracts and position paper submissions on recent work or work in progress. We welcome comparative analysis
-papers that evaluate algorithms in JPF or its extensions with other relevant tools. The goal of the workshop is to encourage the flow of
-ideas relevant to JPF and Java/Android program analysis in general. The papers should be at most 5 pages long in the ACM SIG
-Proceedings format. The extended abstracts and position paper should be at most 2-pages. Accepted *regular papers* will be published in
-the Software Engineering Notes (SEN) and the ACM digital library.
+We solicit regular paper submissions on existing research and applications related to JPF or its extensions, as well as topics on Java/Android static analysis. We welcome comparative analysis papers that evaluate algorithms in JPF or its extensions with other relevant tools. If the underlying research idea has been published in another venue, authors need to clarify the novel aspects that are being presented in their papers. We also solicit extended abstracts and position papers on recent or in progress work. Submissions should be at most 5 pages long (including references) in the ACM SIG Proceedings format. The extended abstracts and position paper should be at most 2-pages (including references). Accepted regular papers will be published in the Software Engineering Notes (SEN) and the ACM digital library.
 
 Topics of interest include the following:
 * JPF extensions or tools
