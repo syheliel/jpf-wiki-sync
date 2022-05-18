@@ -11,7 +11,7 @@ Topics of interest include the following:
 * Android program analysis or verification
 * General software verification techniques or tools
 
-Abstracts and papers must be submitted electronically through the JPF 2022 EasyChair submission site: https://easychair.org/conferences/?conf=jpf2022. All submissions must be in English.
+All papers must be submitted electronically through the JPF 2022 EasyChair submission site: https://easychair.org/conferences/?conf=jpf2022. All submissions must be in English.
 
 ## Participation
 We invite practitioners, academics, and students who are interested in Java development, automated program analysis, and related software engineering research and practice to attend the JPF workshop. Submitting a paper is not required to participate, enjoy, and learn about JPF.
