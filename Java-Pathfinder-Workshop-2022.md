@@ -49,6 +49,21 @@ We invite practitioners, academics, and students who are interested in Java deve
 
 ## Program Committee
 _[coming soon]_
+<!--
+* [Cyrille Artho](https://people.kth.se/~artho/), KTH Royal Institute of Technology
+* [Franck van Breugel](http://www.cse.yorku.ca/~franck/), York University
+* [Antonio Filieri](https://www.antonio.filieri.name), Imperial College London
+* [Milos Gligoric](https://users.ece.utexas.edu/~gligoric/), University of Texas at Austin
+* [Falk Howar](https://ls14-www.cs.tu-dortmund.de/cms/de/mitarbeiter/profs/Howar.html), TU Dortmund
+* [Xuan-Bach D. Le](https://xuanbachle.github.io), University of Melbourne
+* [Thanh Vu H. Nguyen](https://nguyenthanhvuh.github.io), George Mason University
+* [Pavel Parizek](https://d3s.mff.cuni.cz/people/pavelparizek/), Charles University
+* [Corina Pasareanu](https://www.cylab.cmu.edu/directory/bios/pasareanu-corina.html), NASA Ames and CMU
+* [Sang Phan](https://research.facebook.com/people/phan-sang/), Meta
+* [Vaibhav Sharma](https://sites.google.com/view/vaibhavbsharma/home), Amazon
+* [Arnaud Venet](https://dblp.org/pid/59/4227.html), Meta
+* [Guowei Yang](https://guoweiyang.github.io), University of Queensland
+-->
 
 ## Contact
 [javapathfinder2022@gmail.com](mailto:javapathfinder2022@gmail.com)
