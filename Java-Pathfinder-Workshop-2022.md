@@ -48,8 +48,6 @@ We invite practitioners, academics, and students who are interested in Java deve
 * [Yannic Noller](https://comp.nus.edu.sg/~yannic), National University of Singapore
 
 ## Program Committee
-_[coming soon]_
-<!--
 * [Cyrille Artho](https://people.kth.se/~artho/), KTH Royal Institute of Technology
 * [Franck van Breugel](http://www.cse.yorku.ca/~franck/), York University
 * [Antonio Filieri](https://www.antonio.filieri.name), Imperial College London
@@ -63,7 +61,6 @@ _[coming soon]_
 * [Vaibhav Sharma](https://sites.google.com/view/vaibhavbsharma/home), Amazon
 * [Arnaud Venet](https://dblp.org/pid/59/4227.html), Meta
 * [Guowei Yang](https://guoweiyang.github.io), University of Queensland
--->
 
 ## Contact
 [javapathfinder2022@gmail.com](mailto:javapathfinder2022@gmail.com)
