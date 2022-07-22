@@ -52,6 +52,7 @@ This is the main page for Java™ Pathfinder (JPF). JPF is an extensible softwar
 ---
 
 #### Latest JPF News
+*  07/21/2022 JPF is now on Twitter! Check out our feed for the latest news and updates: [https://twitter.com/Java_Pathfinder](https://twitter.com/Java_Pathfinder)
 *  05/13/2022 [JPF Workshop 2022](https://github.com/javapathfinder/jpf-core/wiki/Java-Pathfinder-Workshop-2022) will be co-located with [ASE 2022](https://conf.researchr.org/track/ase-2022/ase-2022-workshops) in Ann Arbor, Michigan, United States. Please consider submitting a paper.
 *  03/09/2022 [GSoC 2022](https://summerofcode.withgoogle.com): The JPF team has been accepted again as mentor organization for the GSoC program! To learn more, please visit the [JPF/GSoC](JPF-Google-Summer-of-Code-2022) page.
 *  11/23/2021 [JPF 2021](https://github.com/javapathfinder/jpf-core/wiki/JPF-Day-2021-(Online)): The JPF team organizes a virtual JPF day this year! Check our [call for participation](https://github.com/javapathfinder/jpf-core/wiki/JPF-Day-2021-(Online)).
@@ -67,11 +68,11 @@ This is the main page for Java™ Pathfinder (JPF). JPF is an extensible softwar
 *  06/01/2016 [JPF Workshop 2016](JPF-Workshop-2016) will be co-located with [FSE 2016](http://www.cs.ucdavis.edu/fse2016/) in Seattle, WA, on November 18, 2016. Please consider submitting a paper.
 *  04/22/2016 JPF student proposals accepted for GSoC 2016 [announced](https://summerofcode.withgoogle.com/organizations/5791763432210432/#projects) - Congratulations to the students!
 *  02/29/2016 JPF got accepted for [GSoC 2016](https://summerofcode.withgoogle.com/organizations/5791763432210432/). Please visit our [ideas page](Google-Summer-of-Code-2016-Project-Ideas), and let us know if you would like to propose a project.
-*  17/08/2015 JPF Workshop 2015 Accepted Papers are announced. Please visit [ASE 2015](http://ase2015.unl.edu) for registration, date and venue information. 
-*  10/03/2014 JPF Workshop 2014 [Accepted Papers](JPF-Workshop-2014-Accepted-Papers). Please visit [SOAR Lab](http://soarlab.org/events/jpf2014/) for registration, date and venue information. 
 <details close>
 <summary>Old news</summary>
 <ul>
+<li>17/08/2015 JPF Workshop 2015 Accepted Papers are announced. Please visit <a href="http://ase2015.unl.edu">ASE 2015</a> for registration, date and venue information.</li> 
+<li>10/03/2014 JPF Workshop 2014 <a href="https://github.com/javapathfinder/jpf-core/wiki/JPF-Workshop-2014-Accepted-Papers">Accepted Papers</a>. Please visit <a href="http://soarlab.org/events/jpf2014/">SOAR Lab</a> for registration, date and venue information.</li> 
 <li>10/01/2013 JPF Workshop 2013 <a href="JPF-Workshop-2013-Accepted-Papers">Accepted Papers</a>. Please note <a href="http://ti.arc.nasa.gov/events/jpf-workshop-2013">JPF Workshop 2013</a> website is down due to the shutdown, please visit <a href="http://ase2013.org">ASE 2013</a> for registration, date and venue information.</li>
 
 <li>06/20/2013 <a href="http://ti.arc.nasa.gov/events/jpf-workshop-2013/">JPF Workshop 2013</a> will be co-located with <a href="http://ase2013.org">ASE 2013</a> Please submit papers.<\li>
