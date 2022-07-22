@@ -1,5 +1,7 @@
 The goal of the workshop is to highlight current research and tools development for Java/Android program verification and analysis. Although the workshop’s theme revolves around the JPF tool, e.g., use of JPF to support basic research, tool development, or in verification case studies, we also welcome contributions related to program analysis of Java/Android applications. The workshop will serve as a platform to grow the community of researchers, foster collaboration and define future directions for JPF development and Java/Android program analysis research.
 
+Also, check our Twitter account for the latest news and updates: [https://twitter.com/Java_Pathfinder](https://twitter.com/Java_Pathfinder)
+
 ## Call for Submissions
 We solicit regular paper submissions on existing research and applications related to JPF or its extensions, as well as topics on Java/Android static analysis. We welcome comparative analysis papers that evaluate algorithms in JPF or its extensions with other relevant tools. If the underlying research idea has been published in another venue, authors need to clarify the novel aspects that are being presented in their papers. We also solicit extended abstracts and position papers on recent or in progress work. Submissions should be at most 5 pages long (including references) in the [ACM SIGSOFT SEN format](https://www.sigsoft.org/SEN/subpub.html). The extended abstracts and position paper should be at most 2-pages (including references). Accepted regular papers will be published in the Software Engineering Notes (SEN) and the ACM digital library.
 
@@ -65,4 +67,5 @@ While we want to encourage all participants to join on-site in Ann Arbor, we wan
 * [Guowei Yang](https://guoweiyang.github.io), University of Queensland
 
 ## Contact
-[javapathfinder2022@gmail.com](mailto:javapathfinder2022@gmail.com)
+* Email: [javapathfinder2022@gmail.com](mailto:javapathfinder2022@gmail.com)
+* Twitter: [https://twitter.com/Java_Pathfinder](https://twitter.com/Java_Pathfinder)
