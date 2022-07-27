@@ -25,15 +25,15 @@ While we want to encourage all participants to join on-site in Ann Arbor, we wan
   <tbody>
     <tr>
       <td><b>Submission</b>:</td>
-      <td>Friday, July 29, 2022</td>
+      <td>Friday, <s>July 29, 2022</s> <b>August 5, 2022</b></td>
     </tr>
     <tr>
       <td><b>Notification</b>:</td>
-      <td>Wednesday, August 24, 2022</td>
+      <td>Wednesday, <s>August 24, 2022</s> <b>August 31, 2022</b></td>
     </tr>
     <tr>
       <td><b>Final Version</b>:</td>
-      <td>Friday, September 2, 2022</td>
+      <td>Friday, <s>September 2, 2022</s> <b>September 9, 2022</b></td>
     </tr>
     <tr>
       <td><b>Workshop day</b>:</td>
