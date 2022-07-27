@@ -20,12 +20,12 @@ We invite practitioners, academics, and students who are interested in Java deve
 
 While we want to encourage all participants to join on-site in Ann Arbor, we want to highlight that the **JPF workshop will be held as a hybrid event**. This also means that authors are not necessarily required to present in person but can also present virtually.
 
-## Important Dates (in AoE)
+## Important Dates (in AoE) :warning:
 <table>
   <tbody>
     <tr>
       <td><b>Submission</b>:</td>
-      <td>Friday, <s>July 29, 2022</s> <b>August 5, 2022</b></td>
+      <td>Friday, <s>July 29, 2022</s> <b>August 5, 2022</b> :point_left:</td>
     </tr>
     <tr>
       <td><b>Notification</b>:</td>
