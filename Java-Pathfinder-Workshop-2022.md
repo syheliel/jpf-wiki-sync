@@ -33,9 +33,10 @@ Topics of interest include the following:
 All papers must be submitted electronically through the JPF 2022 EasyChair submission site: https://easychair.org/conferences/?conf=jpf2022. All submissions must be in English.
 
 ## Participation
-We invite practitioners, academics, and students who are interested in Java development, automated program analysis, and related software engineering research and practice to attend the JPF workshop. Submitting a paper is not required to participate, enjoy, and learn about JPF. The workshop will be co-located with [ASE 2022](https://conf.researchr.org/track/ase-2022/ase-2022-workshops) in Ann Arbor, Michigan, United States.
+We invite practitioners, academics, and students who are interested in Java development, automated program analysis, and related software engineering research and practice to attend the JPF workshop. Submitting a paper is not required to participate, enjoy, and learn about JPF. The workshop will be co-located with [ASE 2022](https://conf.researchr.org/track/ase-2022/ase-2022-workshops) in [Oakland Center, Michigan, United States](https://conf.researchr.org/venue/ase-2022/ase-2022-venue).
 
-While we want to encourage all participants to join on-site in Ann Arbor, we want to highlight that the **JPF workshop will be held as a hybrid event**. This also means that authors are not necessarily required to present in person but can also present virtually.
+
+While we want to encourage all participants to join on-site in the Oakland Center, we want to highlight that the **JPF workshop will be held as a hybrid event**. This also means that authors are not necessarily required to present in person but can also present virtually.
 
 ## Important Dates (in AoE) :warning:
 <table>
