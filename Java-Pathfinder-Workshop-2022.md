@@ -5,8 +5,9 @@ The goal of the workshop is to highlight current research and tools development 
 ## Page Content
 
 * [Accepted Papers](#Accepted-Papers)
-* [Call for Submissions](#Call-for-Submissions)
+* [Workshop Program](#Workshop-Program)
 * [Participation](#Participation)
+* [Call for Submissions](#Call-for-Submissions)
 * [Important Dates](#important-dates-in-aoe-warning)
 * [Organizers](#Organizers)
 * [Program Committee](#Program-Committee)
@@ -18,6 +19,15 @@ The goal of the workshop is to highlight current research and tools development 
 * **Towards Wider Support for Java String Functions**<br>*Qiuchen Yan, Cyrille Artho and Pavel Parizek*
 * **Checking Just Pairs of Threads for Efficient and Scalable Incremental Verification of Multithreaded Programs**<br>*Pavel Parizek and Filip Kliber*
 * **jpf-logic: a Framework for Checking Temporal Logic Properties of Java Code**<br>*Matt Walker, Parssa Khazra, Anto Nanah Ji, Hongru Wang and Franck van Breugel*
+
+## Workshop Program
+TBA
+
+## Participation
+We invite practitioners, academics, and students who are interested in Java development, automated program analysis, and related software engineering research and practice to attend the JPF workshop. Submitting a paper is not required to participate, enjoy, and learn about JPF. The workshop will be co-located with [ASE 2022](https://conf.researchr.org/track/ase-2022/ase-2022-workshops) in [Oakland Center, Michigan, United States](https://conf.researchr.org/venue/ase-2022/ase-2022-venue).
+
+
+While we want to encourage all participants to join on-site in the Oakland Center, we want to highlight that the **JPF workshop will be held as a hybrid event**. This also means that authors are not necessarily required to present in person but can also present virtually.
 
 ## Call for Submissions
 We solicit regular paper submissions on existing research and applications related to JPF or its extensions, as well as topics on Java/Android static analysis. We welcome comparative analysis papers that evaluate algorithms in JPF or its extensions with other relevant tools. If the underlying research idea has been published in another venue, authors need to clarify the novel aspects that are being presented in their papers. We also solicit extended abstracts and position papers on recent or in progress work. Submissions should be at most 5 pages long (including references) in the [ACM SIGSOFT SEN format](https://www.sigsoft.org/SEN/subpub.html). The extended abstracts and position paper should be at most 2-pages (including references). Accepted regular papers will be published in the Software Engineering Notes (SEN) and the ACM digital library.
@@ -31,12 +41,6 @@ Topics of interest include the following:
 * General software verification techniques or tools
 
 All papers must be submitted electronically through the JPF 2022 EasyChair submission site: https://easychair.org/conferences/?conf=jpf2022. All submissions must be in English.
-
-## Participation
-We invite practitioners, academics, and students who are interested in Java development, automated program analysis, and related software engineering research and practice to attend the JPF workshop. Submitting a paper is not required to participate, enjoy, and learn about JPF. The workshop will be co-located with [ASE 2022](https://conf.researchr.org/track/ase-2022/ase-2022-workshops) in [Oakland Center, Michigan, United States](https://conf.researchr.org/venue/ase-2022/ase-2022-venue).
-
-
-While we want to encourage all participants to join on-site in the Oakland Center, we want to highlight that the **JPF workshop will be held as a hybrid event**. This also means that authors are not necessarily required to present in person but can also present virtually.
 
 ## Important Dates (in AoE) :warning:
 <table>
