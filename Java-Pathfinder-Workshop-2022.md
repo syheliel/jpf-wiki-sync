@@ -2,6 +2,13 @@ The goal of the workshop is to highlight current research and tools development 
 
 > Check our [Twitter](https://twitter.com/Java_Pathfinder) account for the latest news and updates!
 
+## Accepted Papers
+
+* **Using Theia Traceviewer to Visualize JPF Traces**<br>*Johan Besseling and Cyrille Artho*
+* **Towards Wider Support for Java String Functions**<br>*Qiuchen Yan, Cyrille Artho and Pavel Parizek*
+* **Checking Just Pairs of Threads for Efficient and Scalable Incremental Verification of Multithreaded Programs**<br>*Pavel Parizek and Filip Kliber*
+* **jpf-logic: a Framework for Checking Temporal Logic Properties of Java Code**<br>*Matt Walker, Parssa Khazra, Anto Nanah Ji, Hongru Wang and Franck van Breugel*
+
 ## Call for Submissions
 We solicit regular paper submissions on existing research and applications related to JPF or its extensions, as well as topics on Java/Android static analysis. We welcome comparative analysis papers that evaluate algorithms in JPF or its extensions with other relevant tools. If the underlying research idea has been published in another venue, authors need to clarify the novel aspects that are being presented in their papers. We also solicit extended abstracts and position papers on recent or in progress work. Submissions should be at most 5 pages long (including references) in the [ACM SIGSOFT SEN format](https://www.sigsoft.org/SEN/subpub.html). The extended abstracts and position paper should be at most 2-pages (including references). Accepted regular papers will be published in the Software Engineering Notes (SEN) and the ACM digital library.
 
