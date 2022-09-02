@@ -2,6 +2,16 @@ The goal of the workshop is to highlight current research and tools development 
 
 > Check our [Twitter](https://twitter.com/Java_Pathfinder) account for the latest news and updates!
 
+## Page Content
+
+* [Accepted Papers](#Accepted-Papers)
+* [Call for Submissions](#Call-for-Submissions)
+* [Participation](#Participation)
+* [Important Dates](#important-dates-in-aoe-warning)
+* [Organizers](#Organizers)
+* [Program Committee](#Program-Committee)
+* [Contact](#Contact)
+
 ## Accepted Papers
 
 * **Using Theia Traceviewer to Visualize JPF Traces**<br>*Johan Besseling and Cyrille Artho*
