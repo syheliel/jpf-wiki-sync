@@ -21,6 +21,7 @@ The goal of the workshop is to highlight current research and tools development 
 * **jpf-logic: a Framework for Checking Temporal Logic Properties of Java Code**<br>*Matt Walker, Parssa Khazra, Anto Nanah Ji, Hongru Wang and Franck van Breugel*
 
 ## Workshop Program
+*(all times are in the local timezone: Eastern Daylight Time, i.e., UTC-4)*
 
 Start | End | Agenda Item
 --- | --- | :---
