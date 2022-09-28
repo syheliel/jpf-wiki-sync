@@ -30,14 +30,14 @@ Start | End | Agenda Item
 *10:00* | *10:30* | *Coffee break*
 10:30 | 10:45 | **Checking Just Pairs of Threads for Efficient and Scalable Incremental Verification of Multithreaded Programs**<br>Pavel Parizek and Filip Kliber
 10:45 | 11:00 | **Using Theia Traceviewer to Visualize JPF Traces**<br>Johan Besseling and Cyrille Artho
-11:00 | 12:00 | **JPF Tutorial**<br>Cyrille Artho (KTH Royal Institute of Technology)
+11:00 | 12:00 | **Tutorial: Java PathFinder**<br>Cyrille Artho (KTH Royal Institute of Technology)
 *12:00* | *13:30* | *Lunch*
 13:30 | 14:15 | **Invited talk: TBA**<br>Ron Pressler (Developer in the Java Platform Group, Oracle)
 14:15 | 14:30 | **jpf-logic: a Framework for Checking Temporal Logic Properties of Java Code**<br>Matt Walker, Parssa Khazra, Anto Nanah Ji, Hongru Wang and Franck van Breugel
 14:30 | 14:45 | **Towards Wider Support for Java String Functions**<br>Qiuchen Yan, Cyrille Artho and Pavel Parizek
 14:45 | 15:00 | **Gradle support for Symbolic PathFinder**<br>Gaurang Kudale
 *15:00* | *15:30* | *Coffee break*
-15:30 | 16:30 | **SPF Tutorial**<br>Corina Pasareanu (CMU, NASA Ames)
+15:30 | 16:30 | **Tutorial: Symbolic PathFinder**<br>Corina Pasareanu (CMU, NASA Ames)
 16:30 | 17:00 | Open Discussion
 *18:00* | | *Dinner*
 
