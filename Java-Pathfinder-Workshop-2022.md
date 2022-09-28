@@ -21,7 +21,25 @@ The goal of the workshop is to highlight current research and tools development 
 * **jpf-logic: a Framework for Checking Temporal Logic Properties of Java Code**<br>*Matt Walker, Parssa Khazra, Anto Nanah Ji, Hongru Wang and Franck van Breugel*
 
 ## Workshop Program
-TBA
+
+Start | End | Agenda Item
+--- | --- | :---
+09:00 | 09:15 | Welcome
+09:15 | 10:00 | **Invited talk: TBA**<br>John Kellerman (Cloud Development Tools Program Manager, Eclipse Foundation)
+*10:00* | *10:30* | *Coffee break*
+10:30 | 10:45 | **Checking Just Pairs of Threads for Efficient and Scalable Incremental Verification of Multithreaded Programs**<br>Pavel Parizek and Filip Kliber
+10:45 | 11:00 | **Using Theia Traceviewer to Visualize JPF Traces**<br>Johan Besseling and Cyrille Artho
+11:00 | 12:00 | **JPF Tutorial**<br>Cyrille Artho (KTH Royal Institute of Technology)
+*12:00* | *13:30* | *Lunch*
+13:30 | 14:15 | **Invited talk: TBA**<br>Ron Pressler (Developer in the Java Platform Group, Oracle)
+14:15 | 14:30 | **jpf-logic: a Framework for Checking Temporal Logic Properties of Java Code**<br>Matt Walker, Parssa Khazra, Anto Nanah Ji, Hongru Wang and Franck van Breugel
+14:30 | 14:45 | **Towards Wider Support for Java String Functions**<br>Qiuchen Yan, Cyrille Artho and Pavel Parizek
+14:45 | 15:00 | **Gradle support for Symbolic PathFinder**<br>Gaurang Kudale
+*15:00* | *15:30* | *Coffee break*
+15:30 | 16:30 | **SPF Tutorial**<br>Corina Pasareanu (CMU, NASA Ames)
+16:30 | 17:00 | Open Discussion
+*18:00* | | *Dinner*
+
 
 ## Participation
 We invite practitioners, academics, and students who are interested in Java development, automated program analysis, and related software engineering research and practice to attend the JPF workshop. Submitting a paper is not required to participate, enjoy, and learn about JPF. The workshop will be co-located with [ASE 2022](https://conf.researchr.org/track/ase-2022/ase-2022-workshops) in [Oakland Center, Michigan, United States](https://conf.researchr.org/venue/ase-2022/ase-2022-venue).
