@@ -26,18 +26,18 @@ The goal of the workshop is to highlight current research and tools development 
 Start | End | Agenda Item
 --- | --- | :---
 09:00 | 09:15 | Welcome
-09:15 | 10:00 | **Invited talk: "Eclipse Foundation: Enabling Open, Vendor Neutral Collaboration"**<br>John Kellerman (Cloud Development Tools Program Manager, Eclipse Foundation)
+09:15 | 10:00 | **Invited talk: "Eclipse Foundation: Enabling Open, Vendor Neutral Collaboration"**<br>John Kellerman (Cloud Development Tools Program Manager, Eclipse Foundation)<br>→ [recording](https://youtu.be/tt40pqLjXQE)
 *10:00* | *10:30* | *Coffee break*
 10:30 | 10:45 | **Checking Just Pairs of Threads for Efficient and Scalable Incremental Verification of Multithreaded Programs**<br>Pavel Parizek and Filip Kliber
 10:45 | 11:00 | **Using Theia Traceviewer to Visualize JPF Traces**<br>Johan Besseling and Cyrille Artho
-11:00 | 12:00 | **Tutorial: Java PathFinder**<br>Cyrille Artho (KTH Royal Institute of Technology)
+11:00 | 12:00 | **Tutorial: Java PathFinder**<br>Cyrille Artho (KTH Royal Institute of Technology)<br>→ [recording](https://youtu.be/KnN7HkV1iPM)
 *12:00* | *13:30* | *Lunch*
-13:30 | 14:15 | **Invited talk: "Virtual threads: scalable, harmonious concurrency"**<br>Ron Pressler (Developer in the Java Platform Group, Oracle)
+13:30 | 14:15 | **Invited talk: "Virtual threads: scalable, harmonious concurrency"**<br>Ron Pressler (Developer in the Java Platform Group, Oracle)<br>→ [recording](https://youtu.be/3BzKf7XvqKM)
 14:15 | 14:30 | **jpf-logic: a Framework for Checking Temporal Logic Properties of Java Code**<br>Matt Walker, Parssa Khazra, Anto Nanah Ji, Hongru Wang and Franck van Breugel
 14:30 | 14:45 | **Towards Wider Support for Java String Functions**<br>Qiuchen Yan, Cyrille Artho and Pavel Parizek
 14:45 | 15:00 | **Gradle support for Symbolic PathFinder**<br>Gaurang Kudale
 *15:00* | *15:30* | *Coffee break*
-15:30 | 16:30 | **Tutorial: Symbolic PathFinder**<br>Corina Pasareanu (CMU, NASA Ames)
+15:30 | 16:30 | **Tutorial: Symbolic PathFinder**<br>Corina Pasareanu (CMU, NASA Ames)<br>→ [recording](https://youtu.be/4NJW1Q_ASuY)
 16:30 | 17:00 | Open Discussion
 *18:00* | | *Dinner*
 
