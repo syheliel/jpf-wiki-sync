@@ -37,6 +37,8 @@ A possible proposal template can be found at the bottom of our GSoC page: [[JPF 
 
 * [String Constraint Solver Integration in SPF](#improving-string-analysis-in-spf) <Yannic><Corina><Elena><Soha>
 
+<!--- * [Witness generation in SPF](#improving-string-analysis-in-spf) <Soha> -->
+
 <!-- * [Support Random Search Strategy in SPF](#random-search-in-spf) <Soha> -->
 
 <!-- * [Support Bit-Vector Floating Point in SPF](#bvfloating-point-in-spf) <Soha> -->
@@ -60,8 +62,6 @@ A possible proposal template can be found at the bottom of our GSoC page: [[JPF 
 <!-- * [Combinatorial testing of configuration options for SPF](#combinatorial-testing-of-configuration-options-for-SPF) <Vaibhav> -->
 
 <!-- * [Beneficial path-merging for SPF](#beneficial-path-merging-for-SPF) <Vaibhav> -->
-
-<!-- * [Test generation with path-merging](#test-generation-with-path-merging) <Vaibhav> -->
 
 <!--### Hybrid Fuzzing-->
 
