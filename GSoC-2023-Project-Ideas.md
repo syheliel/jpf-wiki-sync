@@ -37,9 +37,7 @@ A possible proposal template can be found at the bottom of our GSoC page: [[JPF 
 
 * [String Constraint Solver Integration in SPF](#improving-string-analysis-in-spf) <Yannic><Corina><Elena><Soha>
 
-<!--- * [Witness generation in SPF](#improving-string-analysis-in-spf) <Soha> -->
-
-<!-- * [Support Random Search Strategy in SPF](#random-search-in-spf) <Soha> -->
+<!-- * [Witness generation in SPF](#witness-generation-in-spf) <Soha> -->
 
 <!-- * [Support Bit-Vector Floating Point in SPF](#bvfloating-point-in-spf) <Soha> -->
 
@@ -213,19 +211,24 @@ The goal of this project is to test SPF integration with Z3 string constraint so
 **Scope:** 350 hours  
 **Required skills:** Knowledge of Symbolic Pathfinder   
 **Preferred skills:** Knowledge of String constraint solving.  
-**Possible Mentors:** Yannic, Corina, Elena, Soha
+**Possible Mentors:** Corina, Elena, Soha
 
-<!--
-<a name="random-search-in-spf"></a>
-#### Support Random Search Strategy in SPF   
+<!-- 
+<a name="witness-generation-in-spf"></a>
+#### Witness generation in GraphML for violated properties in SPF
 
 **Description:**
-SPF currently uses a depth-first search strategy, in this project we will add random search strategy to SPF. This will allow SPF to have faster coverage given a limited time budget.  
+The goal of this project is to support witness generation for SPF in a state-machine format based on GraphML. This would, in particular, be helpful in verifying SPF results in SV-COMP.
 
-**Difficulty:** Medium  
-**Required skills:** Knowledge of Symbolic Pathfinder.  
-**Preferred skills:** Knowledge of random search strategy.  
 
+**Difficulty:** Hard  
+**Scope:** 350 hours  
+**Required skills:** Knowledge of Symbolic Pathfinder   
+**Preferred skills:** GraphML
+**Possible Mentors:** Soha
+-->
+
+<!--
  
 <a name="minimize-testcases-path-merging"></a>
 #### Minimizing Test-Cases for Branch Coverage of Path-Merged Regions
