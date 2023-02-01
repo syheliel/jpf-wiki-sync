@@ -9,7 +9,7 @@ This is the main page for Java™ Pathfinder (JPF). JPF is an extensible softwar
          - [Random value example](Random-Example)
          - [Data race example](Race-Example)
     * [JPF key features](Classification)-->
-* [How to obtain and install JPF](install/How-to-install-JPF) - everything to get it running on your machine
+* [How to obtain and install JPF](How-to-install-JPF) - everything to get it running on your machine
     <!-- [System requirements](System-requirements)
     - Downloading [binary snapshots](Downloading-binary-snapshots) and [sources](Downloading-sources)
     - [Creating a site properties file](Creating-site-properties-file)
