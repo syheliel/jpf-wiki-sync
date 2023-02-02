@@ -14,5 +14,3 @@ Here is the outline of this section:
     - [Random value example](Random-Example)
     - [Data race example](Race-Example)
   * [JPF key features](Classification)
-    
-
