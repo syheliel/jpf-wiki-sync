@@ -144,3 +144,4 @@ Typically, JPF tests are only executed from within an IDE if they fail and need 
 Under NetBeans, this can be done by selecting the test class, and then executing the *Debug File* command from the context menu. This will pop up a dialog that lets you enter a specific test method to debug. This method requires a properly set up ide-file-target.xml, which comes with most JPF projects.
 
 Under Eclipse, you can select the test class and then execute **Debug As..** -> **Java Application**.
+

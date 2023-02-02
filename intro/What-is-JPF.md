@@ -37,6 +37,3 @@ If you are familiar with Java implementations, you know about the humongous prop
 So what makes it worthwhile to invest in JPF? After all, it is a heavyweight tool, not a quick and simple bug finder. First, if you are looking for a research platform to try out your new software verification ideas, chances are you can get along with JPF in a fraction of time compared to native production VMs, which are typically optimized towards speed and care little about extensibility or observability.
 
 The second answer is that - as of this writing - there are bugs *only* JPF can find (before the fact, that is), and there are more and more Java applications that cannot afford to learn about these bugs after the fact. JPF is a tool for mission critical applications, where failure is not an option. No surprise it was started by NASA.
-
-
-

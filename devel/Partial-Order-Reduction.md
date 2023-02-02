@@ -65,3 +65,4 @@ Even with all these optimizations, some unwanted transition breakers are likely 
  * write once, read multiple conditions cannot be detected a priori for fields that are not final, or inside immutable objects (like `java.lang.String`)
 
 Especially the last issue might be subject to further enhancements
+

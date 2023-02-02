@@ -12,4 +12,3 @@
 | [Using JPF to efficiently compute workload in Multi-Agent Systems](https://drive.google.com/drive/folders/0BwrgAhm5slznTFlpNUhJRjRXZ1k) | Jane Ostergar Linn | Brigham Young University | Franco Raimondi | Neha Rungta, Eric Mercer |
 | Verifying Safety of NextGen Models | Jianfeng Chen | North Carolina State University | Neha Rungta | Eric Mercer, Franco Raimondi |
 | [Visualization Support for JDart](http://chaofz.me/jdart-viz/description/) | Chaofeng Zhou | University of Utah | Zvonimir Rakamaric | Kasper Luckow, Falk Howar |
-

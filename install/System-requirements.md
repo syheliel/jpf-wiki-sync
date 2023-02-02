@@ -79,3 +79,4 @@ If you want to go with Eclipse and have to rebuild the JPF [Eclipse plugin](./ec
 If you want to use the [NetBeans plugin](./netbeans-jpf), the minimal NetBeans version is 6.5.
 
 </details>
+

@@ -170,9 +170,3 @@ for generation of test drivers and library  models/stubs, containing symbolic va
 the results of domain-specific static analysis, specifications, run-time information, or other 
 suitable techniques. Once generated, such drivers and stubs can be used to verify applications 
 using SPF. The project can be implemented on top of [OCSEGen](http://ti.arc.nasa.gov/publications/8752/download) or another suitable tool.
-
-
-
-
-
-
