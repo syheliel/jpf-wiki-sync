@@ -5,9 +5,9 @@ A possible proposal template can be found at the bottom of our GSoC page: [[JPF 
 
 ### JPF Infrastructure
 
-* [Support Java 11 (bootstrap methods and other issues) for jpf-core](#support-java-11) <Cyrille>
+* ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Support Java 11 (bootstrap methods and other issues) for jpf-core](#support-java-11) <Cyrille>
 
-* [Support Java 17 (private API dependencies) for jpf-core](#support-java-17) <Cyrille> 
+*  ![#FFD700](https://placehold.co/15x15/FFD700/FFD700.png) [Support Java 17 (private API dependencies) for jpf-core](#support-java-17) <Cyrille> 
 
 <!-- ### JPF Application Domains -->
 
@@ -31,13 +31,13 @@ A possible proposal template can be found at the bottom of our GSoC page: [[JPF 
 
 ### Symbolic Pathfinder (SPF)
 
-* [Support Java 11+ for SPF](#support-java-11-for-spf) <Yannic><Corina>
+* ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Support Java 11+ for SPF](#support-java-11-for-spf) <Yannic><Corina>
 
 <!-- * [Support gradle for SPF](#support-gradle-for-spf) <Yannic><Corina> -->
 
-* [String Constraint Solver Integration in SPF](#improving-string-analysis-in-spf) <Yannic><Corina><Elena><Soha>
+* ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [String Constraint Solver Integration in SPF](#improving-string-analysis-in-spf) <Yannic><Corina><Elena><Soha>
 
-* [Support the generation of violation Witness in GraphML format in SPF](#witness-generation-in-spf) <Soha>
+* ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Support the generation of violation Witness in GraphML format in SPF](#witness-generation-in-spf) <Soha>
 
 <!-- * [Support Bit-Vector Floating Point in SPF](#bvfloating-point-in-spf) <Soha> -->
 
@@ -99,7 +99,7 @@ A possible proposal template can be found at the bottom of our GSoC page: [[JPF 
 
 <!-- * [Environment and Test Case Generation for Specific Domains](#environment-and-test-case-generation-for-specific-domains) <Oksana> -->
 
-* [Model-based Testing with Modbat for JPF](#mbt-modbat) <Cyrille>
+* ![#4CAF50](https://placehold.co/15x15/4CAF50/4CAF50.png) [Model-based Testing with Modbat for JPF](#mbt-modbat) <Cyrille>
 
 <!-- * [Minimizing test-cases for branch coverage of Path-Merged Regions](#minimize-testcases-path-merging) <Soha> -->
 
@@ -126,7 +126,7 @@ A possible proposal template can be found at the bottom of our GSoC page: [[JPF 
 ### Project Description
 
 <a name="support-java-11"></a>
-#### Support Java 11 (bootstrap methods and other issues) for jpf-core
+#### ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Support Java 11 (bootstrap methods and other issues) for jpf-core
 
 **Description:**
 jpf-core is essentially a JVM that currently fully supports only Java 8 and Java 11 (with limitations on bootstrap methods). Bootstrap methods are currently interpreted, which works for common usage but may not work for advanced cases. The goal of this project is to generate the call site code on the fly so bootstrap methods work as on the host JVM. 
@@ -140,7 +140,7 @@ jpf-core is essentially a JVM that currently fully supports only Java 8 and Java
 **Possible Mentors:** Cyrille
 
 <a name="support-java-17"></a>
-#### Support for Java 17 (private API dependencies) for jpf-core
+#### ![#FFD700](https://placehold.co/15x15/FFD700/FFD700.png) Support for Java 17 (private API dependencies) for jpf-core
 
 Related to the project above, there are also some internal APIs from Java 11 that no longer exist in Java 17.
 This requires redesigning and reimplementing part of the code, in order to take a different approach that no longer depends on functionality that was removed in Java 17. The code in question is easily found by trying to compile JPF with Java 17.
@@ -152,7 +152,7 @@ This requires redesigning and reimplementing part of the code, in order to take 
 **Possible Mentors:** Cyrille
 
 <a name="mbt-modbat"></a>
-#### Test Case Generation/Model-based Testing with Modbat for JPF
+#### ![#4CAF50](https://placehold.co/15x15/4CAF50/4CAF50.png) Test Case Generation/Model-based Testing with Modbat for JPF
 
 **Description:**
 JPF requires test cases as a starting point to explore a system. It is therefore suitable to use
@@ -186,7 +186,7 @@ The goal of this project is to (1) implement gradle support for Symbolic Pathfin
 -->
 
 <a name="support-java-11-for-spf"></a>
-#### Support for Java v11 for SPF
+#### ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Support for Java v11 for SPF
 
 **Description:**
 The goal of this project is to upgrade SPF to work with Java 11.
@@ -198,7 +198,7 @@ The goal of this project is to upgrade SPF to work with Java 11.
 **Possible Mentors:** Yannic, Corina
 
 <a name="improving-string-analysis-in-spf"></a>
-#### Robustify String solving for SPF
+#### ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Robustify String solving for SPF
 
 **Description:**
 The goal of this project is to test SPF integration with Z3 string constraint solving; adding support cvc5 is a plus.
@@ -212,7 +212,7 @@ The goal of this project is to test SPF integration with Z3 string constraint so
 
 
 <a name="witness-generation-in-spf"></a>
-#### Support the generation of violation Witness in GraphML format in SPF
+#### ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Support the generation of violation Witness in GraphML format in SPF
 
 **Description:**
 The goal of this project is to support witness generation for SPF in a state-machine format based on GraphML. This would, in particular, help verify SPF's results in SV-COMP.
@@ -221,7 +221,7 @@ The goal of this project is to support witness generation for SPF in a state-mac
 **Difficulty:** Hard  
 **Scope:** 350 hours  
 **Required skills:** Knowledge of Symbolic Pathfinder   
-**Preferred skills:** GraphML
+**Preferred skills:** GraphML  
 **Possible Mentors:** Soha
 
 
