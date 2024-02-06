@@ -70,4 +70,4 @@ A good proposal should contain the following:
 
 8. Any possible conflicts of interest.
 
-9. Scheduling issues. GSoC 2023 allows some flexibility in planning the milestones for each project. If you already know when you will not be available (e.g., due to final exams or personal commitments), you can already highlight this in the proposal. That allows the mentors to plan with you ahead of time to adjust the schedule early during the community bonding period.
+9. Scheduling issues. GSoC 2024 allows some flexibility in planning the milestones for each project. If you already know when you will not be available (e.g., due to final exams or personal commitments), you can already highlight this in the proposal. That allows the mentors to plan with you ahead of time to adjust the schedule early during the community bonding period.
