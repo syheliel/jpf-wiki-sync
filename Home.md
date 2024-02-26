@@ -47,6 +47,7 @@ This is the main page for Java™ Pathfinder (JPF). JPF is an extensible softwar
 * [Workshops](JPF-Workshops) - link to annual workshops on JPF
 * [Google Summer of Code](Google-Summer-of-Code) - link to JPF's participation in the Google Summer of Code program, current ideas page [here](GSoC-2023-Project-Ideas). 
 * [Mailing list](https://groups.google.com/forum/#!forum/java-pathfinder) - discussion about JPF takes place in Google Groups [JPF Google Group](https://groups.google.com/forum/#!forum/java-pathfinder)
+* [Discord](https://discord.gg/sX4YZUVHK7) - join our Discord server for more discussions
 <!--* [Related research and publications](Related-publications)-->
 
 ---
