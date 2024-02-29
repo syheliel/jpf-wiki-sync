@@ -37,7 +37,7 @@ A possible proposal template can be found at the bottom of our GSoC page: [[JPF 
 
 * ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [String Constraint Solver Integration in SPF](#improving-string-analysis-in-spf) <Yannic><Corina><Elena><Soha>
 
-* ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Support the generation of violation Witness in GraphML format in SPF](#witness-generation-in-spf) <Soha>
+* ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Support the generation of violation witness in GraphML format in SPF](#witness-generation-in-spf) <Soha>
 
 <!-- * [Support Bit-Vector Floating Point in SPF](#bvfloating-point-in-spf) <Soha> -->
 
@@ -212,7 +212,7 @@ The goal of this project is to test SPF integration with Z3 string constraint so
 
 
 <a name="witness-generation-in-spf"></a>
-#### ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Support the generation of violation Witness in GraphML format in SPF
+#### ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Support the generation of violation witness in GraphML format in SPF
 
 **Description:**
 The goal of this project is to support witness generation for SPF in a state-machine format based on GraphML. This would, in particular, help verify SPF's results in SV-COMP.
