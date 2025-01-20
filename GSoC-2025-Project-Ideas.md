@@ -5,9 +5,9 @@ A possible proposal template can be found at the bottom of our GSoC page: [[JPF 
 
 ### JPF Infrastructure
 
-* ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Support Java 11 (bootstrap methods and other issues) for jpf-core](#support-java-11) <Cyrille>
+* ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Support Java 11/17 for JPF extensions](#support-java-11) <Cyrille>
 
-*  ![#FFD700](https://placehold.co/15x15/FFD700/FFD700.png) [Support Java 17 (private API dependencies) for jpf-core](#support-java-17) <Cyrille> 
+*  ![#FFD700](https://placehold.co/15x15/FFD700/FFD700.png) [Support Java 17 for jpf-core](#support-java-17) <Cyrille> 
 
 <!-- ### JPF Application Domains -->
 
@@ -126,31 +126,28 @@ A possible proposal template can be found at the bottom of our GSoC page: [[JPF 
 ### Project Description
 
 <a name="support-java-11"></a>
-#### ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Support Java 11 (bootstrap methods and other issues) for jpf-core
+#### ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Support Java 11/17 for JPF extensions
 
 **Description:**
 jpf-core is essentially a JVM that currently fully supports only Java 8 and Java 11 (with limitations on bootstrap methods). Bootstrap methods are currently interpreted, which works for common usage but may not work for advanced cases. The goal of this project is to generate the call site code on the fly so bootstrap methods work as on the host JVM. 
 
-*Note:* You can apply to both projects (Java 11 or 17 support); in that case, please indicate that you would like to work on either one, and what your preference would be.
-
 **Difficulty:** Hard  
 **Scope:** 350 hours  
 **Required skills:** Knowledge of Java bytecode  
-**Preferred skills:** Knowledge of bootstrap methods in Java bytecode  
+**Preferred skills:** Knowledge of private Java APIs 
 **Possible Mentors:** Cyrille
 
 <a name="support-java-17"></a>
-#### ![#FFD700](https://placehold.co/15x15/FFD700/FFD700.png) Support for Java 17 (private API dependencies) for jpf-core
+#### ![#FFD700](https://placehold.co/15x15/FFD700/FFD700.png) Support for Java 17 for jpf-core
 
-Related to the project above, there are also some internal APIs from Java 11 that no longer exist in Java 17.
-This requires redesigning and reimplementing part of the code, in order to take a different approach that no longer depends on functionality that was removed in Java 17. The code in question is easily found by trying to compile JPF with Java 17.
-*Note:* You can apply to both projects (Java 11 or 17 support); in that case, please indicate that you would like to work on either one, and what your preference would be.
+Related to the project above, there are also some new features in Java 17 that are not yet supported by JPF. We have work in progress on branch `java-17`. Currently unsupported Java features include language features that are not supported at run time (e.g., records) and Java language features that are not fully analyzed (e.g., sealed classes). In this project, you would identify such unsupported features and extend JPF (jpf-core) to support them.
 
 **Difficulty:** Medium  
 **Scope:** 175 hours  
 **Required skills:** Knowledge of Java internals  
 **Possible Mentors:** Cyrille
 
+<!--
 <a name="mbt-modbat"></a>
 #### ![#4CAF50](https://placehold.co/15x15/4CAF50/4CAF50.png) Test Case Generation/Model-based Testing with Modbat for JPF
 
@@ -169,7 +166,7 @@ to resolve as many of these cases as possible. Remaining cases can be handled wi
 **Required skills:** Knowledge of Java Pathfinder  
 **Preferred skills:** Knowledge of test generation  
 **Possible Mentors:** Cyrille
-
+-->
 
 <!--
 <a name="support-gradle-for-spf"></a>
