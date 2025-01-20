@@ -149,7 +149,7 @@ Related to the project above, there are also some new features in Java 17 that a
 
 <!--
 <a name="mbt-modbat"></a>
-#### ![#4CAF50](https://placehold.co/15x15/4CAF50/4CAF50.png) Test Case Generation/Model-based Testing with Modbat for JPF
+#### ![#FFD700](https://placehold.co/15x15/4CAF50/4CAF50.png) Test Case Generation/Model-based Testing with Modbat for JPF
 
 **Description:**
 JPF requires test cases as a starting point to explore a system. It is therefore suitable to use
