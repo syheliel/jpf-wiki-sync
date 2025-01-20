@@ -99,7 +99,7 @@ A possible proposal template can be found at the bottom of our GSoC page: [[JPF 
 
 <!-- * [Environment and Test Case Generation for Specific Domains](#environment-and-test-case-generation-for-specific-domains) <Oksana> -->
 
-* ![#4CAF50](https://placehold.co/15x15/4CAF50/4CAF50.png) [Model-based Testing with Modbat for JPF](#mbt-modbat) <Cyrille>
+* ![#FFD700](https://placehold.co/15x15/FFD700/FFD700.png) [Model-based Testing with Modbat for JPF](#mbt-modbat) <Cyrille>
 
 <!-- * [Minimizing test-cases for branch coverage of Path-Merged Regions](#minimize-testcases-path-merging) <Soha> -->
 
