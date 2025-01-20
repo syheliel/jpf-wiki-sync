@@ -161,7 +161,7 @@ access to some native code that JPF does not support.
 The goal is to find all problems where Modbat requires native access, and to use jpf-nhandler
 to resolve as many of these cases as possible. Remaining cases can be handled with custom model/peer classes, perhaps not with the full feature set, but at least to avoid JPF aborting due to an unsupported feature.
 
-**Difficulty:** Easy  
+**Difficulty:** Medium  
 **Scope:** 350 hours  
 **Required skills:** Knowledge of Java Pathfinder  
 **Preferred skills:** Knowledge of test generation  
