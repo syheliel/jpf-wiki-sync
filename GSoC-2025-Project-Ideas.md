@@ -99,7 +99,7 @@ A possible proposal template can be found at the bottom of our GSoC page: [[JPF 
 
 <!-- * [Environment and Test Case Generation for Specific Domains](#environment-and-test-case-generation-for-specific-domains) <Oksana> -->
 
-* ![#FFD700](https://placehold.co/15x15/FFD700/FFD700.png) [Model-based Testing with Modbat for JPF](#mbt-modbat) <Cyrille>
+<!-- * ![#FFD700](https://placehold.co/15x15/FFD700/FFD700.png) [Model-based Testing with Modbat for JPF](#mbt-modbat) <Cyrille> -->
 
 <!-- * [Minimizing test-cases for branch coverage of Path-Merged Regions](#minimize-testcases-path-merging) <Soha> -->
 
@@ -149,7 +149,7 @@ Related to the project above, there are also some new features in Java 17 that a
 
 <!--
 <a name="mbt-modbat"></a>
-#### ![#FFD700](https://placehold.co/15x15/4CAF50/4CAF50.png) Test Case Generation/Model-based Testing with Modbat for JPF
+#### ![#FFD700](https://placehold.co/15x15/FFD700/FFD700.png) Test Case Generation/Model-based Testing with Modbat for JPF
 
 **Description:**
 JPF requires test cases as a starting point to explore a system. It is therefore suitable to use
