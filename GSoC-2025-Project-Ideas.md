@@ -37,7 +37,9 @@ A possible proposal template can be found at the bottom of our GSoC page: [[JPF 
 
 * ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [String Constraint Solver Integration in SPF](#improving-string-analysis-in-spf) <Yannic><Corina><Elena><Soha>
 
-* ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Support the generation of violation witness in GraphML format in SPF](#witness-generation-in-spf) <Soha>
+* ![#FFD700](https://placehold.co/15x15/FFD700/FFD700.png) [Support runtime exceptions in SPF](#runtime-exception-in-spf) <Soha>
+
+* ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Support a portfolio of solvers in SPF](#solvers-portfolio-in-spf) <Soha>
 
 <!-- * [Support Bit-Vector Floating Point in SPF](#bvfloating-point-in-spf) <Soha> -->
 
@@ -208,18 +210,32 @@ The goal of this project is to test SPF integration with Z3 string constraint so
 **Possible Mentors:** Corina, Elena, Soha
 
 
-<a name="witness-generation-in-spf"></a>
-#### ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Support the generation of violation witness in GraphML format in SPF
+<a name="runtime-exception-in-spf"></a>
+#### ![#FFD700](https://placehold.co/15x15/FFD700/FFD700.png) Support runtime exception in SPF
 
 **Description:**
-The goal of this project is to support witness generation for SPF in a state-machine format based on GraphML. This would, in particular, help verify SPF's results in SV-COMP.
+The main goal of this project is to support throwing a runtime exception for some of the summarized functions such as `String.substring`. Also, this project should build on SPF Java 11 Gradle support, which implies fixing existing issues. 
+
+
+**Difficulty:** Meduim  
+**Scope:** 175 hours    
+**Required skills:** Knowledge of Symbolic Pathfinder   
+**Possible Mentors:** Soha
+
+
+<a name="solvers-portfolio-in-spf"></a>
+#### ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Support portfolio of solvers in spf in SPF
+
+**Description:**
+The main goal of this project is to enable the simultaneous invocation of multiple solvers, terminating the wait as soon as any solver returns a satisfiable result. This approach is expected to enhance SPF's ability to handle a broader range of constraints.
 
 
 **Difficulty:** Hard  
 **Scope:** 350 hours  
 **Required skills:** Knowledge of Symbolic Pathfinder   
-**Preferred skills:** GraphML  
+**Preferred skills:** Expeirence with various solvers   
 **Possible Mentors:** Soha
+
 
 
 <!--
