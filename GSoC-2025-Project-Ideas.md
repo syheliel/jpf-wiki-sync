@@ -31,7 +31,7 @@ A possible proposal template can be found at the bottom of our GSoC page: [[JPF 
 
 ### Symbolic Pathfinder (SPF)
 
-* ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Support Java 11+ for SPF](#support-java-11-for-spf) <Yannic><Corina>
+<!-- * ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Support Java 11+ for SPF](#support-java-11-for-spf) <Yannic><Corina> -->
 
 <!-- * [Support gradle for SPF](#support-gradle-for-spf) <Yannic><Corina> -->
 
@@ -184,6 +184,7 @@ The goal of this project is to (1) implement gradle support for Symbolic Pathfin
 **Possible Mentors:** Yannic, Corina
 -->
 
+<!-- 
 <a name="support-java-11-for-spf"></a>
 #### ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Support for Java v11 for SPF
 
@@ -195,6 +196,8 @@ The goal of this project is to upgrade SPF to work with Java 11.
 **Required skills:** Knowledge of Symbolic Pathfinder   
 **Preferred skills:** Knowledge of Java v11  
 **Possible Mentors:** Yannic, Corina
+
+-->
 
 <a name="improving-string-analysis-in-spf"></a>
 #### ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Robustify String solving for SPF
@@ -224,7 +227,7 @@ The main goal of this project is to support throwing a runtime exception for som
 
 
 <a name="solvers-portfolio-in-spf"></a>
-#### ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Support portfolio of solvers in spf in SPF
+#### ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Support portfolio of solvers in SPF
 
 **Description:**
 The main goal of this project is to enable the simultaneous invocation of multiple solvers, terminating the wait as soon as any solver returns a satisfiable result. This approach is expected to enhance SPF's ability to handle a broader range of constraints.
