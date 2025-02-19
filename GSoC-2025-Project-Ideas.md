@@ -41,6 +41,8 @@ A possible proposal template can be found at the bottom of our GSoC page: [[JPF 
 
 * ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Support a portfolio of solvers in SPF](#solvers-portfolio-in-spf) <Soha>
 
+* ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Use LLM to generate sound reduction rules](#llm-reduction-rules-in-spf) <Soha>
+
 <!-- * [Support Bit-Vector Floating Point in SPF](#bvfloating-point-in-spf) <Soha> -->
 
 <!-- * [Refactoring SPF constraint library](#refactoring-spf-constraint-library) <Elena> -->
@@ -236,6 +238,19 @@ The main goal of this project is to enable the simultaneous invocation of multip
 **Difficulty:** Hard  
 **Scope:** 350 hours  
 **Required skills:** Knowledge of Symbolic Pathfinder   
+**Preferred skills:** Expeirence with various solvers   
+**Possible Mentors:** Soha
+
+
+<a name="llm-reduction-rules-in-spf"></a>
+#### ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Use LLM to generate sound reduction rules
+
+**Description:**
+Solver constraints can become very complex, and very large. In this project, we will use LLM to identify sound reduction rules that can be applied to the constraints before sending them to the solver, ideally improving its performance. See [this paper](https://link.springer.com/chapter/10.1007/978-3-642-39176-7_19) for reference.
+
+**Difficulty:** Hard  
+**Scope:** 350 hours  
+**Required skills:** Knowledge of Symbolic Pathfinder, LLM   
 **Preferred skills:** Expeirence with various solvers   
 **Possible Mentors:** Soha
 
