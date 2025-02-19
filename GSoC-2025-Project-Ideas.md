@@ -250,8 +250,8 @@ Solver constraints can become very complex, and very large. In this project, we 
 
 **Difficulty:** Hard  
 **Scope:** 350 hours  
-**Required skills:** Knowledge of Symbolic Pathfinder, LLM   
-**Preferred skills:** Expeirence with various solvers   
+**Required skills:** Knowledge of Symbolic Pathfinder     
+**Preferred skills:** LLM  
 **Possible Mentors:** Soha
 
 
