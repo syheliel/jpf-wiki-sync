@@ -1,6 +1,7 @@
 ## Ideas: [[GSoC 2025 Project Ideas]]
 
-The Java Pathfinder (JPF) team will apply again as a mentor organization for the [Google Summer of Code](https://summerofcode.withgoogle.com/) (GSoC) program this year 2025.
+<!--The Java Pathfinder (JPF) team will apply again as a mentor organization for the [Google Summer of Code](https://summerofcode.withgoogle.com/) (GSoC) program this year 2025.-->
+The Java Pathfinder (JPF) team has been accepted again as mentor organization for the [Google Summer of Code](https://summerofcode.withgoogle.com/) (GSoC) program this year 2025.
 The GSoC program is a program where Google sponsors student developers to write code for open-source projects at selected mentoring organizations. Each student is guided by a mentor throughout the program. The complete length of the program is about three months, which is done remotely, and it is generally fun. You can learn about the program rules and your eligibility [here](https://summerofcode.withgoogle.com/rules/).
 
 ## Java Pathfinder ##
@@ -15,7 +16,7 @@ You can learn more about JPF at the [JPF wiki](https://github.com/javapathfinder
 
 ## Interested Students - Contact Us ##
 
-*Note that JPF has not yet been accepted for GSoC 2025 and that our [project ideas](https://github.com/javapathfinder/jpf-core/wiki/GSoC-2025-Project-Ideas) are still being extended and refined.*
+<!--*Note that JPF has not yet been accepted for GSoC 2025 and that our [project ideas](https://github.com/javapathfinder/jpf-core/wiki/GSoC-2025-Project-Ideas) are still being extended and refined.*-->
 
 You can find existing project ideas on our [[GSoC 2025 Project Ideas]] page. If you are interested in a JPF-related project which is not listed here, we would love to hear about it. If you have any questions or suggestions regarding JPF and GSoC, use our Google Group: https://groups.google.com/g/java-pathfinder, or join our Discord server: https://discord.gg/sX4YZUVHK7.
 Please be sure to describe your interests and background. The more we know about you, the better we will be able to answer your questions about JPF and its potential projects.
