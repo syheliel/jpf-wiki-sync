@@ -51,11 +51,11 @@ This is the main page for Java™ Pathfinder (JPF). JPF is an extensible softwar
 <!--* [Related research and publications](Related-publications)-->
 
 ---
+<!--*  02/08/2025 [GSoC 2025](https://summerofcode.withgoogle.com): The JPF team will apply again as mentor organization for the GSoC program! To learn more, please visit the [JPF/GSoC](https://github.com/javapathfinder/jpf-core/wiki/JPF-Google-Summer-of-Code-2025) page.-->
 
 #### Latest JPF News
-*  02/08/2025 [GSoC 2025](https://summerofcode.withgoogle.com): The JPF team will apply again as mentor organization for the GSoC program! To learn more, please visit the [JPF/GSoC](https://github.com/javapathfinder/jpf-core/wiki/JPF-Google-Summer-of-Code-2025) page.
+*  02/28/2025 [GSoC 2025](https://summerofcode.withgoogle.com): The JPF team has been accepted again as mentor organization for the GSoC program! To learn more, please visit the [JPF/GSoC](https://github.com/javapathfinder/jpf-core/wiki/JPF-Google-Summer-of-Code-2025) page.
 *  02/23/2024 [GSoC 2024](https://summerofcode.withgoogle.com): The JPF team has been accepted again as mentor organization for the GSoC program! To learn more, please visit the [JPF/GSoC](https://github.com/javapathfinder/jpf-core/wiki/JPF-Google-Summer-of-Code-2024) page.
-*  01/29/2024 [GSoC 2024](https://summerofcode.withgoogle.com): The JPF team will apply again as mentor organization for the GSoC program! To learn more, please visit the [JPF/GSoC](https://github.com/javapathfinder/jpf-core/wiki/JPF-Google-Summer-of-Code-2024) page.
 *  07/21/2022 JPF is now on [Twitter](https://twitter.com/Java_Pathfinder)! Follow us and check out our feed for the latest news and updates.
 *  05/13/2022 [JPF Workshop 2022](https://github.com/javapathfinder/jpf-core/wiki/Java-Pathfinder-Workshop-2022) will be co-located with [ASE 2022](https://conf.researchr.org/track/ase-2022/ase-2022-workshops) in the Oakland Center, Michigan, United States. Please consider submitting a paper.
 *  03/09/2022 [GSoC 2022](https://summerofcode.withgoogle.com): The JPF team has been accepted again as mentor organization for the GSoC program! To learn more, please visit the [JPF/GSoC](JPF-Google-Summer-of-Code-2022) page.
