@@ -205,7 +205,7 @@ The goal of this project is to upgrade SPF to work with Java 11.
 #### ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Robustify String solving for SPF
 
 **Description:**
-The goal of this project is to test SPF integration with Z3 string constraint solving; adding support cvc5 is a plus.
+The goal of this project is to test SPF integration with Z3 string constraint solving; adding support cvc5 is a plus. This project will extend SPF branch `sv-comp`.
 
 
 **Difficulty:** Hard  
@@ -219,7 +219,7 @@ The goal of this project is to test SPF integration with Z3 string constraint so
 #### ![#FFD700](https://placehold.co/15x15/FFD700/FFD700.png) Support runtime exception in SPF
 
 **Description:**
-The main goal of this project is to support throwing a runtime exception for some of the summarized functions such as `String.substring`. Also, this project should build on [SPF](https://github.com/SymbolicPathFinder/jpf-symbc) Java 11 Gradle support, which implies fixing existing issues. 
+The main goal of this project is to support throwing a runtime exception for some of the summarized functions such as `String.substring`. Also, this project should build on [SPF](https://github.com/SymbolicPathFinder/jpf-symbc) Java 11 Gradle support, which implies fixing existing issues. This project will extend SPF branch `sv-comp`.
 
 
 **Difficulty:** Meduim  
@@ -232,7 +232,7 @@ The main goal of this project is to support throwing a runtime exception for som
 #### ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Support portfolio of solvers in SPF
 
 **Description:**
-The main goal of this project is to enable the simultaneous invocation of multiple solvers, terminating the wait as soon as any solver returns a satisfiable result. This approach is expected to enhance [SPF's](https://github.com/SymbolicPathFinder/jpf-symbc) ability to handle a broader range of constraints.
+The main goal of this project is to enable the simultaneous invocation of multiple solvers, terminating the wait as soon as any solver returns a satisfiable result. This approach is expected to enhance [SPF's](https://github.com/SymbolicPathFinder/jpf-symbc) ability to handle a broader range of constraints. This project will extend SPF branch `sv-comp`.
 
 
 **Difficulty:** Hard  
@@ -246,7 +246,7 @@ The main goal of this project is to enable the simultaneous invocation of multip
 #### ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Use LLM to generate sound reduction rules in SPF
 
 **Description:**
-Solver constraints can become very complex, and very large. In this project, we will use LLM in [SPF](https://github.com/SymbolicPathFinder/jpf-symbc) to identify sound reduction rules that can be applied to the constraints before sending them to the solver, ideally improving its performance. See [this paper](https://link.springer.com/chapter/10.1007/978-3-642-39176-7_19) for reference.
+Solver constraints can become very complex, and very large. In this project, we will use LLM in [SPF](https://github.com/SymbolicPathFinder/jpf-symbc) to identify sound reduction rules that can be applied to the constraints before sending them to the solver, ideally improving its performance. See [this paper](https://link.springer.com/chapter/10.1007/978-3-642-39176-7_19) for reference. This project will extend SPF branch `sv-comp`.
 
 **Difficulty:** Hard  
 **Scope:** 350 hours  
