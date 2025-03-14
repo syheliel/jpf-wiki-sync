@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 JPF builds using Gradle on two stable branches `master` and `java-8`, which support Java 11 and Java 8 respectively.
+=======
+JPF builds using Gradle on two stable branches `java-8` and `java-11`, which support Java 8 and Java 11 respectively.
+>>>>>>> 49e2db116830c9aee80800731dc274749702c58a
 In the following, we provide instructions for your:
 
 ***

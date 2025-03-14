@@ -4,8 +4,13 @@
 JPF sources are kept as [Git](https://git-scm.com/) repositories on GitHub within the [Java Pathfinder organization](https://github.com/javapathfinder/). You need to clone the repository (e.g. https://github.com/javapathfinder/jpf-core) that you are interested in.
 
 There are two stable branches in our repository:
+<<<<<<< HEAD
 1. `master`: It provides Java 11 support using Gradle build system and is also the **default** branch now.
 2. `java-8`: It provides Java 8 support using Gradle build system.
+=======
+1. `java-8`: It provides Java 8 support using Gradle build system.
+2. `java-11`: It provides Java 11 support using Gradle build system and is also the **default** branch now.
+>>>>>>> 49e2db116830c9aee80800731dc274749702c58a
 
 Feel free to fork the desired repository. Contributions are welcome, and we invite you to subscribe to our mailing list: java-pathfinder@googlegroups.com
 
